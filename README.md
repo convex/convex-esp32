@@ -72,7 +72,7 @@ platform  = espressif32
 board     = esp32-s3-devkitc-1
 framework = arduino
 lib_deps  =
-    https://github.com/get-convex/convex-esp32.git
+    https://github.com/convex/convex-esp32.git
     bblanchon/ArduinoJson@^7.0.0
 build_flags = -DARDUINOJSON_ENABLE_ARDUINO_STRING=1
 ```
