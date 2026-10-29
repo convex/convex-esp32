@@ -5,7 +5,7 @@
 #include "convex_config.h"
 
 /* Convex client for the ESP32  --  ALPHA, no guarantee of support.
- * https://github.com/get-convex/convex-esp32
+ * https://github.com/convex/convex-esp32
  *
  * Talks to a Convex deployment two ways:
  *   1. The reactive sync protocol over a TLS WebSocket (wss://<dep>.convex.cloud

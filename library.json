@@ -5,13 +5,13 @@
   "keywords": "convex, reactive, websocket, realtime, backend, esp32",
   "repository": {
     "type": "git",
-    "url": "https://github.com/get-convex/convex-esp32.git"
+    "url": "https://github.com/convex/convex-esp32.git"
   },
   "authors": [
     { "name": "Convex, Inc.", "url": "https://convex.dev", "maintainer": true }
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/get-convex/convex-esp32",
+  "homepage": "https://github.com/convex/convex-esp32",
   "frameworks": ["arduino"],
   "platforms": ["espressif32"],
   "headers": "Convex.h",
